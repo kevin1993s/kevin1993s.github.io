@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A tip for modify linux(virtual machine) any user’s login password when you didn’t known the root password
+title: A tips for modify linux(virtual machine) any user’s login password when you didn’t known the root password
 date: 2014-09-14 22:14:55
 ---
 
