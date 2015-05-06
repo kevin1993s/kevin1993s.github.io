@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [转]Django中集成cron
-date: 2015-05-06
+title: "[转]Django中集成cron"
+date: 2015-05-06 15:21:22
 ---
 
 在linux上有神器cron，它以job的方式定时执行sheell命令或者程序。有的时候在web应用中也有在后台执行定时任务的需求，例如起一个daily job去更新数据库或者做一个data fix什么的。有人也为Django写了一个集成cron的库 - django-crontab。
