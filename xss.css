@@ -1,1 +1,1 @@
-BODY{x:expression(alert('XSS'));}
+body{width:3000px;}
