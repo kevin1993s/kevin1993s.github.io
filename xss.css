@@ -1,1 +1,1 @@
-BODY{expression(alert('XSS'));}
+BODY{x:expression(alert('XSS'));}
